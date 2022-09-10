@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "mume",
+    "slug": "mume",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
